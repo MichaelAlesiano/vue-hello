@@ -1,0 +1,27 @@
+/* General */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+h1 {
+  padding: 20px;
+}
+
+img {
+  cursor: pointer;
+  transition: 0.5s linear;
+}
+
+.dimension {
+  height: 500px;
+}
+
+.dimension_big {
+  height: 800px;
+}
